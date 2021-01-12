@@ -1,0 +1,152 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+nav.navBar.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+  padding: 10px 100px;
+}
+
+.navbar-nav .nav-link {
+  font-size: 20px;
+}
+
+.nav-link {
+  margin-left: 30px;
+}
+h2 {
+  color: #b3ecff;
+}
+
+.home-intro-mar {
+  padding: 200px 200px;
+}
+
+.paragraph-home-intro {
+  color: whitesmoke;
+  font-size: 1.5rem;
+  padding-top: 20px;
+}
+
+.h1-from-home {
+  color: #b3ecff;
+  padding-bottom: 30px;
+  font-size: 60px;
+}
+
+.jad-clg {
+  color: #b3ecff;
+}
+
+.skill-containers {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 120px;
+  padding-bottom: 100px;
+}
+
+.project-containers {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 120px;
+  padding-bottom: 100px;
+}
+
+.skill-heading {
+  font-size: 60px;
+  color: #b3ecff;
+  margin: 14px;
+}
+
+.project-heading {
+  font-size: 60px;
+  color: #b3ecff;
+  margin: 14px;
+}
+
+div > .card-containers {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  flex: 0 50%;
+}
+
+.bg-dark {
+  background-color: #111418;
+}
+
+.skill-card {
+  width: 40%;
+  order: 5;
+  display: flex;
+  margin: 14px;
+  background: #343a40 !important;
+  border: 2px solid;
+  border-radius: 15px;
+  padding: 5px;
+}
+
+.project-card {
+  width: 40%;
+  order: 5;
+  display: flex;
+  margin: 14px;
+  background: #343a40 !important;
+  border: 2px solid;
+  border-radius: 15px;
+  padding: 5px;
+}
+
+div > .card-body {
+  padding-top: 0px;
+  height: auto;
+}
+
+.card-imgs {
+  border-radius: 15px;
+  width: 30%;
+  height: 50%;
+  padding: 10px;
+}
+
+.card-imgs-company {
+  border-radius: 15px;
+  width: 45%;
+  height: 70%;
+  padding: 10px;
+}
+
+.skill-name {
+  color: #b3ecff;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.para-card {
+  color: whitesmoke;
+  font-size: 20px;
+}
+
+.github {
+  margin-right: 20px;
+}
+.deploy {
+  margin-left: 5px;
+}
+.project-card-body {
+  height: auto;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+
+.location {
+  height: 25px;
+  margin-right: 5px;
+}
+
+.location-text {
+  color: #bcbbbd;
+}
+.exp-date {
+  color: #686c66;
+}

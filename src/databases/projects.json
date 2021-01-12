@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Write about photo",
+    "time": "DEC-2020",
+    "desc": "MERN app, built using multer for image uploading, and used cloudinary to upload the images into the server",
+    "liveLink": "https://writeaboutphoto.herokuapp.com/",
+    "github": "https://github.com/ak2783934/TheImageGallery/tree/master"
+  },
+  {
+    "name": "Write your thoughts",
+    "time": "DEC-2020",
+    "desc": "Web app build using mongoDB as database, react for frontend and nodejs for backend",
+    "liveLink": "https://agile-hollows-73373.herokuapp.com/",
+    "github": "https://github.com/ak2783934/mernApp"
+  },
+  {
+    "name": "RGB Color visualizer",
+    "time": "NOV-2020",
+    "desc": "Web app built using HTML CSS and JAVASCRIPT. Its a game in which you get to select colors based on RGB value given",
+    "liveLink": "https://ak2783934.github.io/",
+    "github": "https://github.com/ak2783934/ak2783934.github.io"
+  }
+]

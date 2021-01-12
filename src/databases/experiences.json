@@ -1,0 +1,18 @@
+[
+  {
+    "company": "Expedia Group",
+    "position": "SDE intern",
+    "logo": "https://res.cloudinary.com/dlb1ct3qc/image/upload/v1610018999/PORTFOLIO/EXPERIENCE/expedia_bgfaae.png",
+    "location": "Gurgaon",
+    "time": "May 2021 - June 2021",
+    "desc": "Incoming SDE intern at Expedia group, will be working with group of fellow colleagues for making travel easier"
+  },
+  {
+    "company": "Chegg India",
+    "position": "Subject matter expert",
+    "logo": "https://res.cloudinary.com/dlb1ct3qc/image/upload/v1610018999/PORTFOLIO/EXPERIENCE/chegg_io6w8o.jpg",
+    "location": "Remote",
+    "time": "Oct 2020 - Present",
+    "desc": " Working as a part time expert at Chegg India, where I handle doubts related to computer science subject like data structure and algorithms"
+  }
+]

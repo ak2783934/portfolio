@@ -1,0 +1,22 @@
+[
+  {
+    "name": "HTML, CSS & JS",
+    "desc": "The essential components of every website. Love creating UI-designs using Vanilla CSS from scratch. ",
+    "logo": "https://res.cloudinary.com/dlb1ct3qc/image/upload/v1610042822/PORTFOLIO/logos/html_himsip.jpg"
+  },
+  {
+    "name": "REACT JS",
+    "desc": "React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies",
+    "logo": "https://res.cloudinary.com/dlb1ct3qc/image/upload/v1610281569/PORTFOLIO/logos/react_liqhv2.jpg"
+  },
+  {
+    "name": "NODE JS",
+    "desc": "Node.js is an open-source, cross-platform, back-end, JavaScript runtime environment that executes JavaScript code outside a web browser",
+    "logo": "https://res.cloudinary.com/dlb1ct3qc/image/upload/v1610042821/PORTFOLIO/logos/node_kiag1e.jpg"
+  },
+  {
+    "name": "MONGO DB",
+    "desc": "MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need ",
+    "logo": "https://res.cloudinary.com/dlb1ct3qc/image/upload/v1610042822/PORTFOLIO/logos/mongodb_xcrnhg.jpg"
+  }
+]
