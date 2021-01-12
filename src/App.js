@@ -18,7 +18,9 @@ function App() {
       <Projects />
       <Experiences />
       <Contacts />
-      <footer className={"footer-app"}>Made with love by Avinash</footer>
+      <footer className={"footer-app"}>
+        Made with <span className={"span-footer"}>love</span> by Avinash
+      </footer>
     </div>
   );
 }

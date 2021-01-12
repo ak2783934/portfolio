@@ -203,3 +203,8 @@ div > .card-body {
   justify-content: center;
   color: #b3ecff6e;
 }
+.span-footer {
+  color: red;
+  margin-left: 4px;
+  margin-right: 4px;
+}
