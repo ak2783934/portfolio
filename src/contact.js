@@ -13,7 +13,7 @@ class Contacts extends Component {
 
         <Row>
           <Col sm={8}>
-            <form name="contact" method="POST" data-netlify="true">
+            <form action="POST" data-netlify="true">
               <div class="fields">
                 <div class="field half">
                   <input type="text" name="name" id="name" placeholder="Name" />
