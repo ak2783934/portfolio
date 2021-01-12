@@ -13,7 +13,7 @@ class Contacts extends Component {
 
         <Row>
           <Col sm={8}>
-            <form name="contact" method="POST" netlify>
+            <form name="contact" action="/" method="POST" netlify>
               <input type="text" name="name" placeholder="name" />
               <input type="text" name="email" placeholder="email" />
               <textarea
