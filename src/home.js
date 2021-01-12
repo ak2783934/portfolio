@@ -8,7 +8,7 @@ import { Col, Row } from "react-bootstrap";
 class Home extends Component {
   render() {
     return (
-      <div className={"home-intro-mar"} id="home">
+      <div className={"home-intro-mar"}>
         <Row>
           <Col sm={8}>
             <h1 className={"h1-from-home"}>Hello, I'm Avinash Kumar</h1>

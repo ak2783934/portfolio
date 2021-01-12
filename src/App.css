@@ -193,3 +193,13 @@ div > .card-body {
   color: #111418;
   font-size: 20px;
 }
+
+.footer-app {
+  font-size: 15px;
+  font-weight: bolder;
+  height: 25px;
+  background: #343a40;
+  display: flex;
+  justify-content: center;
+  color: #b3ecff6e;
+}

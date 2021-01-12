@@ -12,8 +12,8 @@ class Contacts extends Component {
         <h1 className={"skill-heading"}>Contacts</h1>
         <div className={"contact-container"}>
           <Row>
-            <Col sm={4}></Col>
-            <Col sm={8}>
+            <Col sm={5}></Col>
+            <Col sm={7}>
               <form name="contact" method="post" className={"form-input"}>
                 <input type="hidden" name="form-name" value="contact" />
                 <div className={"input-field"}>

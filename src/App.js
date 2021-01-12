@@ -18,6 +18,7 @@ function App() {
       <Projects />
       <Experiences />
       <Contacts />
+      <footer className={"footer-app"}>Made with love by Avinash</footer>
     </div>
   );
 }

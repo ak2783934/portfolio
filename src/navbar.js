@@ -18,6 +18,7 @@ class NavBar extends Component {
         bg="dark"
         variant="dark"
         className={"navBar"}
+        id="home"
       >
         <Navbar.Brand href="#home">
           <h2>My Portfolio</h2>
