@@ -8,7 +8,7 @@ import skills from "../src/databases/skills.json";
 class Skills extends Component {
   render() {
     return (
-      <div className={"skill-containers"}>
+      <div className={"skill-containers"} id="skills">
         <h1 className={"skill-heading"}>Skills</h1>
         <div className={"card-containers"}>
           {skills.map((skill, index) => {

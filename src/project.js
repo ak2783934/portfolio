@@ -8,7 +8,7 @@ import projects from "../src/databases/projects.json";
 class Projects extends Component {
   render() {
     return (
-      <div className={"project-containers"}>
+      <div className={"project-containers"} id="projects">
         <h1 className={"project-heading"}>Projects</h1>
         <div className={"card-containers"}>
           {projects.map((project, index) => {
