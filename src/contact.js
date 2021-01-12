@@ -13,37 +13,16 @@ class Contacts extends Component {
 
         <Row>
           <Col sm={8}>
-            <form action="POST" data-netlify="true">
-              <div className="fields">
-                <div className="field half">
-                  <input type="text" name="name" id="name" placeholder="Name" />
-                </div>
-                <div className="field half">
-                  <input
-                    type="email"
-                    name="email"
-                    id="email"
-                    placeholder="Email"
-                  />
-                </div>
-                <div className="field">
-                  <textarea
-                    name="message"
-                    id="message"
-                    placeholder="Message"
-                    rows="7"
-                  ></textarea>
-                </div>
-              </div>
-              <ul className="actions">
-                <li>
-                  <input
-                    type="submit"
-                    value="Send Message"
-                    className="button primary"
-                  />
-                </li>
-              </ul>
+            <form name="contact" action="/contact" method="POST" netlify>
+              <input type="text" name="name" placeholder="name" />
+              <input type="text" name="email" placeholder="email" />
+              <textarea
+                name="message"
+                placeholder="message"
+                cols="28"
+                rows="20"
+              ></textarea>
+              <button type="submit">Submit</button>
             </form>
           </Col>
           <Col sm={4}></Col>
