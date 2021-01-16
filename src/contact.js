@@ -3,7 +3,6 @@ import React, { Component } from "react";
 import "./App.css";
 
 import "bootstrap/dist/css/bootstrap.min.css";
-import { Col, Row } from "react-bootstrap";
 
 class Contacts extends Component {
   render() {

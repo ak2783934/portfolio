@@ -198,7 +198,7 @@ div > .card-body {
   border: none;
   border-radius: 1rem;
   background: #343a40;
-  color: #111418;
+  color: #b3ecff;
   height: 2rem;
   font-size: 0.8rem;
 }
@@ -209,20 +209,21 @@ div > .card-body {
   border: none;
   border-radius: 1rem;
   background: #343a40;
-  color: #111418;
   height: 2rem;
   font-size: 0.8rem;
+  color: #b3ecff;
 }
 .text-input {
   margin-top: 1.6rem;
   margin-bottom: 1.6rem;
+  padding: 0.7rem;
   width: 100%;
   height: 5rem;
   border-radius: 1rem;
   background: #343a40;
-  color: #111418;
   font-size: 0.8rem;
   border: none;
+  color: #b3ecff;
 }
 
 /*  footers from here bro!*/
