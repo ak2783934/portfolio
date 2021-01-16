@@ -11,7 +11,7 @@ class Home extends Component {
       <div className={"home-intro-mar"}>
         <Row>
           <Col sm={8}>
-            <h1 className={"h1-from-home"}>Hello, I'm Avinash Kumar</h1>
+            <h1 className={"h1-from-home"}>Hello, I'm Avinash</h1>
             <p className={"paragraph-home-intro"}>
               I am an 3rd-year Electrical Engineering Undergrad from{" "}
               <a className={"jad-clg"} href="http://jaduniv.edu.in/">

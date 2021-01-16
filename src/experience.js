@@ -8,7 +8,7 @@ import experiences from "../src/databases/experiences.json";
 class Experiences extends Component {
   render() {
     return (
-      <div className={"skill-containers"} id="experiences">
+      <div className={"experience-containers"} id="experiences">
         <h1 className={"skill-heading"}>Experiences</h1>
         <div className={"card-containers"}>
           {experiences.map((experience, index) => {
