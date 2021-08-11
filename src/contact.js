@@ -12,15 +12,15 @@ class Contacts extends Component {
         <div className={"contact-container"}>
           <div className={"col-list"}>
             <a
-              href="https://mail.google.com/"
+              href="mailto:ak2783934@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
             >
               <img
-                src="https://res.cloudinary.com/dlb1ct3qc/image/upload/v1610681200/PORTFOLIO/logos/gmail_fdxe83.png"
+                src="https://i.pinimg.com/originals/2b/dc/78/2bdc78b6c227760fca29334de506d739.png"
                 alt="gmail"
                 className={"img-logo"}
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "80px", height: "80px", borderRadius: "50px" }}
               />
             </a>
             <a
@@ -29,10 +29,10 @@ class Contacts extends Component {
               rel="noopener noreferrer"
             >
               <img
-                src="https://res.cloudinary.com/dlb1ct3qc/image/upload/v1610285746/PORTFOLIO/logos/zxcvzvv_tm3azp.png"
+                src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                 alt="gmail"
                 className={"img-logo"}
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "80px", height: "80px", borderRadius: "50px" }}
               />
             </a>
             <a
@@ -41,10 +41,10 @@ class Contacts extends Component {
               rel="noopener noreferrer"
             >
               <img
-                src="https://res.cloudinary.com/dlb1ct3qc/image/upload/v1610681200/PORTFOLIO/logos/linkedin_rpxdyl.png"
+                src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png"
                 alt="gmail"
                 className={"img-logo"}
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "80px", height: "80px", borderRadius: "50px" }}
               />
             </a>
             <a
@@ -53,10 +53,10 @@ class Contacts extends Component {
               rel="noopener noreferrer"
             >
               <img
-                src="https://res.cloudinary.com/dlb1ct3qc/image/upload/v1610681200/PORTFOLIO/logos/ewqrwer_rclsxt.png"
+                src="https://p.kindpng.com/picc/s/495-4952561_resume-icon-gray-social-media-icon-png-transparent.png"
                 alt="gmail"
                 className={"img-logo"}
-                style={{ width: "80px", height: "80px" }}
+                style={{ width: "80px", height: "80px", borderRadius: "50px" }}
               />
             </a>
           </div>

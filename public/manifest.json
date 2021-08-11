@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "My portfolio",
+  "name": "My portfolio website!",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,14 +8,9 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://res.cloudinary.com/dlb1ct3qc/image/upload/v1628678265/PORTFOLIO/Plugin_icon_-_1_fvzt1r.svg",
       "type": "image/png",
       "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
     }
   ],
   "start_url": ".",

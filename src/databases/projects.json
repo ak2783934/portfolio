@@ -1,5 +1,12 @@
 [
   {
+    "name": "Isharey foundation",
+    "time": "FEB-2021",
+    "desc": "Full stack web application for Isharey foundation where you can donate your used cloths to needy people around.",
+    "liveLink": "https://isharey.herokuapp.com/",
+    "github": "https://github.com/AK2783934/ISHAREY"
+  },
+  {
     "name": "Write about photo",
     "time": "DEC-2020",
     "desc": "MERN app, built using multer for image uploading, and used cloudinary to upload the images into the server",
@@ -9,7 +16,7 @@
   {
     "name": "Write your thoughts",
     "time": "DEC-2020",
-    "desc": "Web app build using mongoDB as database, react for frontend and nodejs for backend",
+    "desc": "Web app build using mongoDB as database, Reactjs for frontend and Nodejs for backend",
     "liveLink": "https://agile-hollows-73373.herokuapp.com/",
     "github": "https://github.com/ak2783934/mernApp"
   },

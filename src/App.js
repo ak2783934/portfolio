@@ -1,7 +1,6 @@
 import "./App.css";
 
 import "bootstrap/dist/css/bootstrap.min.css";
-import {} from "react-bootstrap";
 import NavBar from "./navbar";
 import Home from "./home";
 import Skills from "./skill";
