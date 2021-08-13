@@ -13,11 +13,12 @@ class Home extends Component {
           <Col sm={8}>
             <h1 className={"h1-from-home"}>Hi there!, I'm Avinash</h1>
             <p className={"paragraph-home-intro"}>
-              I am final undergraduate student from{" "}
+              I am final year undergraduate student at{" "}
               <a className={"jad-clg"} href="http://jaduniv.edu.in/">
                 Jadavpur University
               </a>
-              . I write code, build websites and mobile apps.
+              . I make websites and mobile apps. Reading books, watching movies
+              and sitcoms are the things I do when I am free.
             </p>
           </Col>
           <Col sm={4}></Col>

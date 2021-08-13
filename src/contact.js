@@ -30,7 +30,7 @@ class Contacts extends Component {
             >
               <img
                 src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-                alt="gmail"
+                alt="github"
                 className={"img-logo"}
                 style={{ width: "80px", height: "80px", borderRadius: "50px" }}
               />
@@ -42,19 +42,19 @@ class Contacts extends Component {
             >
               <img
                 src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png"
-                alt="gmail"
+                alt="LinkedIn"
                 className={"img-logo"}
                 style={{ width: "80px", height: "80px", borderRadius: "50px" }}
               />
             </a>
             <a
-              href="https://docs.google.com/document/d/1Y6h037QulalWNdi73M4XxgcOkq743i8y4Td5ZmE4lSE/edit?usp=sharing"
+              href="https://drive.google.com/file/d/1UekrinoFr9VsWu0yW5zQ_d28vyeCJ9lS/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
               <img
                 src="https://p.kindpng.com/picc/s/495-4952561_resume-icon-gray-social-media-icon-png-transparent.png"
-                alt="gmail"
+                alt="Resume"
                 className={"img-logo"}
                 style={{ width: "80px", height: "80px", borderRadius: "50px" }}
               />
